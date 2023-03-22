@@ -11,9 +11,9 @@ Il s'agit d'une solution au défi [Advice generator app challenge on Frontend Me
 
 ### Le défi
 
-Votre défi est de développer cette application de suivi des adresses IP et de la rendre aussi proche que possible de la conception. Pour obtenir les adresses IP, vous utiliserez [IP Geolocation API by IPify] (https://geo.ipify.org/). Pour générer la carte, nous vous recommandons d'utiliser [LeafletJS] (https://leafletjs.com/).
+Le défi consiste à développer cette application de suivi des adresses IP et de la rendre aussi proche que possible de la conception. Pour obtenir les adresses IP, vous utiliserez [IP Geolocation API by IPify] (https://geo.ipify.org/). Pour générer la carte, nous vous recommandons d'utiliser [LeafletJS] (https://leafletjs.com/).
 
-Vos utilisateurs devraient pouvoir
+Les utilisateurs devraient pouvoir
 
 - Voir la mise en page optimale de chaque page en fonction de la taille de l'écran de leur appareil.
 - voir les états de survol de tous les éléments interactifs de la page
