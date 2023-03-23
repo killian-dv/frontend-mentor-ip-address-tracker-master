@@ -8,8 +8,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
-  <script src="map.js" defer></script>
-  <script src="script.js" defer></script>
+  <script src="script.js" type="module" defer></script>
   <title>Frontend Mentor | IP Address Tracker</title>
 </head>
 <body>
@@ -24,23 +23,27 @@
     <div class="ip-info">
       <div class="info-item">
         <h3>IP Address</h3>
-        <p>test</p>
+        <p id="ip">XXX.XXX.XXX.XXX</p>
       </div>
       <div class="info-item">
         <h3>Location</h3>
-        <p>test</p>
+        <p id="location">Paris</p>
       </div>
       <div class="info-item">
         <h3>Timezone</h3>
-        <p>test</p>
+        <p id="timezone">UTC 00:00</p>
       </div>
       <div class="info-item">
         <h3>ISP</h3>
-        <p>test</p>
+        <p id="isp">Orange</p>
       </div>
     </div>
   </header>
   <div id="map"></div>
 
+  <script>
+
+
+  </script>
 </body>
 </html>

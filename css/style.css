@@ -92,7 +92,7 @@ header .ip-info {
   header .ip-info {
     flex-direction: row;
     justify-content: space-between;
-    align-items: start;
+    align-items: stretch;
     padding: 2.5rem;
   }
 }
@@ -124,7 +124,7 @@ header .ip-info .info-item h3 {
 }
 header .ip-info .info-item p {
   font-size: 1.2rem;
-  color: hsl(0, 0%, 17%);
+  color: lightgray;
   font-weight: 500;
 }
 @media screen and (min-width: 768px) {
