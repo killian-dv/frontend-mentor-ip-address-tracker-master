@@ -4,8 +4,6 @@
 
 ## Salut! 👋
 
-⚠️ Le projet est en cours...
-
 Il s'agit d'une solution au défi [Advice generator app challenge on Frontend Mentor] (https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
 ## Vue d'ensemble
@@ -33,5 +31,4 @@ Les utilisateurs devraient pouvoir
 
 ### Ce que j'ai appris
 
-- Connecter une API à une page HTML grâce à Fetch
-- 
+- Lire les données d'une API et les envoyer en tant qu'argument dans une autre
